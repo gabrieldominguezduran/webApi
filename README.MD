@@ -1,4 +1,4 @@
-## React app with a fetch call to a external api
+## Node Js basic web api
 
 This basic web api with get calls and roles permissions
 
